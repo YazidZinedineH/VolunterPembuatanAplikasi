@@ -439,6 +439,7 @@ Berikut daftar Volunter yang diterima:
 ### X
 ### Y
 * Yeremia Purba, [LinkedIn](https://www.linkedin.com/in/yeremia-purba-95997718b/).
+* Yazid Zinedine Hdiana, [LinkedIn](https://www.linkedin.com/in/zinedine-yazid-8883aa214/)
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Yonix Adhiraksa, [LinkedIn](https://www.linkedin.com/in/yonix-adhiraksa-1ab970141/).
